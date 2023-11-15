@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
     title: 'D4RT5',
-    description: 'The minimalist blog theme',
+    description: 'D4RT5\'s website',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
